@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 110" role="img" aria-label="SOLEKO">
+  <text x="4" y="86" style="font-family: &#39;Nunito Sans&#39;, &#39;Nunito&#39;, system-ui, sans-serif; font-weight: 900; font-size: 88px; letter-spacing: -0.02em; fill: #0E1014;">S</text>
+  <g transform="translate(96, 53) scale(0.76)">
+    <g stroke="#FFB800" stroke-width="7" stroke-linecap="round">
+      <line x1="0" y1="-46" x2="0" y2="-36"></line>
+      <line x1="0" y1="36" x2="0" y2="46"></line>
+      <line x1="-46" y1="0" x2="-36" y2="0"></line>
+      <line x1="36" y1="0" x2="46" y2="0"></line>
+      <line x1="-32" y1="-32" x2="-25" y2="-25"></line>
+      <line x1="25" y1="25" x2="32" y2="32"></line>
+      <line x1="-32" y1="32" x2="-25" y2="25"></line>
+      <line x1="25" y1="-25" x2="32" y2="-32"></line>
+    </g>
+    <circle cx="0" cy="0" r="26" fill="none" stroke="#FFB800" stroke-width="10"></circle>
+  </g>
+  <text x="138" y="86" style="font-family: &#39;Nunito Sans&#39;, &#39;Nunito&#39;, system-ui, sans-serif; font-weight: 900; font-size: 88px; letter-spacing: -0.02em; fill: #0E1014;">LEKO</text>
+</svg>
