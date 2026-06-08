@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /fr/mentions-legales.html
+Disallow: /en/legal-notice.html
+Disallow: /es/aviso-legal.html
+Disallow: /pt/aviso-legal.html
+
+Sitemap: https://soleko.com/sitemap.xml
